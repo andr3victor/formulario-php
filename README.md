@@ -6,6 +6,6 @@ Neste pequeno projeto o formulario comunica-se com o Banco de Dados para o cadas
 
 ## Tecnologias utilizadas 🛠
 ----
--PHP
--CSS
--HTML
+- PHP
+- CSS
+- HTML
